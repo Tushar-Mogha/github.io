@@ -3,17 +3,8 @@
 
 ---
 
-## Navigation
-[About](#about)
-[Projects](#projects)
-[Contact](#contact)
-
----
-
 ## About Me
 Hello! I'm *Tushar Mogha, a passionate college student learning **Python*. I'm working on various projects and assignments to improve my programming skills. My goal is to master Python and use it to solve real-world challenges.
-
----
 
 ---
 
