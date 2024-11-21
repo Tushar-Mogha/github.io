@@ -19,7 +19,7 @@ A tool to generate secure random passwords.
 ### [3. Weather data Fetcher using Weatherstack API](https://github.com/Tushar-Mogha/Weather_Data_Fetcher)
 A Python-based project that greets users based on the time of day.
 
-### [4. TO-DO-LIST_APP](https://github.com/Atul11190/TO-DO-LIST_APP_Project)
+### [4. Expense Tracker](https://github.com/Tushar-Mogha/Expense_Tracker)
 A task management app built with Tkinter, where users can track their to-do lists.
 
 ### 5.[Class_work & Assignment](https://github.com/Tushar-Mogha/Pyhton_MCA)
