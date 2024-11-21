@@ -13,7 +13,7 @@ Hello! I'm *Tushar Mogha, a passionate college student learning **Python*. I'm w
 ### [1. Image Resizer](https://github.com/Tushar-Mogha/Image_Resizer)
 A Python project that integrates a GUI calculator with a personal diary app, built using Tkinter.
 
-### [2. Random_Password_Generator](https://github.com/Atul11190/Random_password_genrator_Project)
+### [2. Basic Data Analysis Tool](https://github.com/Tushar-Mogha/Basic_DataAnalysis_Tool)
 A tool to generate secure random passwords.
 
 ### [3. Time-Greeting](https://github.com/Atul11190/Time-Greeting-)
