@@ -27,5 +27,3 @@ A task management app built with Tkinter, where users can track their to-do list
 
 ---
 
-
-© 2024 *Tushar Mogha*.
