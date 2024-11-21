@@ -16,7 +16,7 @@ A Python project that integrates a GUI calculator with a personal diary app, bui
 ### [2. Basic Data Analysis Tool](https://github.com/Tushar-Mogha/Basic_DataAnalysis_Tool)
 A tool to generate secure random passwords.
 
-### [3. Time-Greeting](https://github.com/Atul11190/Time-Greeting-)
+### [3. Weather data Fetcher using Weatherstack API](https://github.com/Tushar-Mogha/Weather_Data_Fetcher)
 A Python-based project that greets users based on the time of day.
 
 ### [4. TO-DO-LIST_APP](https://github.com/Atul11190/TO-DO-LIST_APP_Project)
